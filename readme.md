@@ -24,7 +24,7 @@
 - school.html: 学校生活のページ  
 - dream.html: 将来の夢のページ
 - about.html: このサイトについて・お問い合わせページ
-- css/style.css: スタイルシート
+- style.css: スタイルシート
 - images/phyoaungzay.jpg: 自分の写真
 - readme.txt: この説明ファイル
 
